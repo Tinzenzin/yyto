@@ -42,11 +42,12 @@ nav a:hover {
   color: #166534;
 }
 
-main h2 {
+main h1, h2, h3 {
   font-size: 1.6rem;
   color: #166534;
   margin-top: 2rem;
 }
+
 
 footer {
   background-color: #ffffff;
